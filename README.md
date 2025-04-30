@@ -1,6 +1,7 @@
 This smart wheelchair system enhances mobility for individuals with physical disabilities by offering multiple control options, including a mobile app (Bluetooth), voice commands, and gesture recognition. It is equipped with ultrasonic sensors for obstacle detection, ensuring safe and user-friendly navigation.
 
 ##✨ Key Features
+
 -📱 Android app-based control using Bluetooth
 - 🎤 Voice recognition for hands-free operation
 - ✋ Hand gesture-based navigation
@@ -8,6 +9,7 @@ This smart wheelchair system enhances mobility for individuals with physical dis
 - 👨‍🦽 Easy and intuitive interface for disabled users
 
 ##🛠️ Technologies Used
+
 -🔌 Arduino Uno for control logic
 -📶 Bluetooth Module (HC-05) for mobile connectivity
 -📊 Ultrasonic Sensors for obstacle detection
