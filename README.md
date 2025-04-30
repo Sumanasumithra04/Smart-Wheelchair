@@ -9,10 +9,10 @@ This smart wheelchair system enhances mobility for individuals with physical dis
 
 ## 🛠️ Technologies Used
 
--🔌 Arduino Uno for control logic
--📶 Bluetooth Module (HC-05) for mobile connectivity
--📊 Ultrasonic Sensors for obstacle detection
--📱Custom Android app for wheelchair navigation and control
+- 🔌 Arduino Uno for control logic
+- 📶 Bluetooth Module (HC-05) for mobile connectivity
+- 📊 Ultrasonic Sensors for obstacle detection
+- 📱 Custom Android app for wheelchair navigation and control
 
 ##📁 Folder Structure
 -📂 Hardware
