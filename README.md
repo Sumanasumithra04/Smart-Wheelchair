@@ -17,7 +17,6 @@ This smart wheelchair system enhances mobility for individuals with physical dis
 ## 📁 Folder Structure
 - 📂 Hardware
 - 📂 Software
-- 📂 Control App
 
 
 ![block diagram](https://github.com/user-attachments/assets/e4965362-8cd6-45f9-9a1e-1cecf630c913)
