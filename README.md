@@ -14,10 +14,11 @@ This smart wheelchair system enhances mobility for individuals with physical dis
 - 📊 Ultrasonic Sensors for obstacle detection
 - 📱 Custom Android app for wheelchair navigation and control
 
-##📁 Folder Structure
--📂 Hardware
--📂 Software
--📂 Control APP
+## 📁 Folder Structure
+- 📂 Hardware
+- 📂 Software
+- 📂 Control App
+
 
 ![block diagram](https://github.com/user-attachments/assets/e4965362-8cd6-45f9-9a1e-1cecf630c913)
 
